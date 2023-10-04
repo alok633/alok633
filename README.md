@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alok633
 - 👀 I’m interested in ... SOFTWARE TESTING
 - 🌱 I’m currently learning ... JAVA , MANUAL TESTING AND HTML 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aloksinghpoo@gmail.com
+- LinkedIn -- www.linkedin.com/in/alok-kumar-singh-qa-engg
 
 <!---
 alok633/alok633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
